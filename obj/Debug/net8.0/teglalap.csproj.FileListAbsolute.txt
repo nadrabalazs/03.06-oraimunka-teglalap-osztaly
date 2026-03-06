@@ -1,0 +1,14 @@
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\bin\Debug\net8.0\teglalap.exe
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\bin\Debug\net8.0\teglalap.deps.json
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\bin\Debug\net8.0\teglalap.runtimeconfig.json
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\bin\Debug\net8.0\teglalap.dll
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\bin\Debug\net8.0\teglalap.pdb
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\obj\Debug\net8.0\teglalap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\obj\Debug\net8.0\teglalap.AssemblyInfoInputs.cache
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\obj\Debug\net8.0\teglalap.AssemblyInfo.cs
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\obj\Debug\net8.0\teglalap.csproj.CoreCompileInputs.cache
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\obj\Debug\net8.0\teglalap.dll
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\obj\Debug\net8.0\refint\teglalap.dll
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\obj\Debug\net8.0\teglalap.pdb
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\obj\Debug\net8.0\teglalap.genruntimeconfig.cache
+C:\Users\nadra.balazs\Documents\Nádra Balázs\teglalap\teglalap\obj\Debug\net8.0\ref\teglalap.dll
