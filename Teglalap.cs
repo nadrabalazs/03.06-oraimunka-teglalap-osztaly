@@ -72,10 +72,8 @@ namespace teglalap
         }
         public void teruletFelezese()
         {
-            double ujTerulet = Terulet() / 2;
-            double arany = aOldal / bOldal;
-            aOldal = arany * bOldal;
-            bOldal = Math.Sqrt(ujTerulet / arany);
+            teruletNovelesSzazalekkal(50);
         }
     }
 }
+
